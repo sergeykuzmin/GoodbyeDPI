@@ -1,8 +1,7 @@
 /**
  * TCP (TTL) Connection Tracker for GoodbyeDPI
  *
- * Monitors SYN/ACK only, to extract the TTL value of the remote server.
- *
+ * Monitors SYN/ACK only, to extract the TTL value of the remote server. *
  */
 
 #include <windows.h>
